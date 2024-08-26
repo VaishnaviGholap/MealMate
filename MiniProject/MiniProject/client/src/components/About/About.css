@@ -1,0 +1,34 @@
+.about-box{
+    width:1000px;
+    height: 190px;
+    background:rgb(216, 212, 212);
+    margin: 0 auto;
+    text-align: center;
+    border-radius: 15%;
+    margin-top: 3%;
+    font-size: 250%;
+    padding-top: 2%;
+    /* background-image: url('box.jpg');
+    background-size: cover;
+    background-position: center; */
+   
+}
+
+#st{
+    width:1000px;
+    height: 250px;
+    background-color: rgb(164, 163, 163);
+    margin: 0 auto;
+    text-align: center;
+    border-radius: 0px;
+    padding-top: 2%;
+    font-size: 150%;
+    margin-bottom:5%;
+    margin-top: 1%;
+    /* background-image: url('dish.jpg');
+    background-size: cover;
+    background-position: center; */
+    color: black;
+   
+}
+

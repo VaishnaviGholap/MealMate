@@ -1,0 +1,46 @@
+
+.home-box{
+    text-align: center;
+    margin-top: 50px;
+}
+
+h1 {
+    font-size: 3rem;
+    color: #333;
+    margin-bottom: 20px;
+    font-family: 'Arial', sans-serif;
+    text-transform: uppercase;
+    letter-spacing: 2px;
+}
+
+#hom1 {
+    font-size: 1.5rem;
+    color: #555;
+    margin-bottom: 30px;
+    font-family: 'Georgia', serif;
+    line-height: 1.5;
+   
+
+}
+
+
+.plan-meal-button {
+    font-size: 1.7rem;
+    color: #fff;
+    background: linear-gradient(45deg, #1e40ec, #11dda0);
+    border: none;
+    border-radius: 25px;
+    padding: 10px 20px;
+    cursor: pointer;
+    transition: background 0.3s ease, transform 0.3s ease;
+    box-shadow: 0 4px 15px rgba(0, 0, 0, 0.2);
+    height: 100%;
+    margin-top: 2%;
+}
+
+.plan-meal-button:hover {
+    background: linear-gradient(45deg, #f06595, #ff6b6b);
+    transform: translateY(-2px);
+}
+
+

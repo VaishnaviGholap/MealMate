@@ -1,0 +1,26 @@
+
+.navbar-nav .nav-item .nav-link:hover {
+  color: #fff;
+  background-color: #ef7a40;
+  transform: scale(1.1);
+ 
+}
+
+
+.navbar-nav .nav-item .nav-link {
+  transition: color 0.3s ease-in-out, background-color 0.3s ease-in-out;
+  padding: 10px 20px;
+  border-radius: 5px;
+  font-weight: bolder;
+}
+
+.navbar-brand{
+   margin-left: 15%; 
+  height: 200%;
+  width: 100%;
+}
+
+
+
+
+
